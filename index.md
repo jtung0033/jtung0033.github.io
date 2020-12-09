@@ -7,7 +7,10 @@ Each of my three artifacts in my ePortfolio showcases a different enhancement wi
 	
 As an ambitious and motivated professional looking to enter the computer science industry, I have the versatility to contribute to a wide array of different positions. In addition to my traditional academic work, I also have capabilities and credentials of a full stack web developer obtained through Udacity. After reviewing my ePortfolio, I hope to have presented myself as a positive and driven candidate for various software development and data analytics positions.
 
-Below included are three projects showcasing three different skillsets within the computer science industry. These three skillsets are:
+## Informal Code Review
+Take a look at this [repository](https://bitbucket.org/jtung0033/code-review/src/master/Artifacts%20Code%20Review.mp4) for a code review video detailing artifacts and enhancement plans.
+
+Below included are the finished product of three enhanced projects showcasing three different categories within the computer science industry. These three categories are:
 - Software Design and Engineering
 - Algorithms and Data Structures
 - Databases
@@ -57,6 +60,3 @@ A collection of six different python programs consolidated into a centralized py
   - Aggregation Query
 
 The consolidated project provides the aforementioned operations in managing a MongoDB collection created from this [stocks.json database](https://github.com/jtung0033/jtung0033.github.io/blob/master/PyMongo%20Operation/stocks.json). Direct to this [download link](https://github.com/jtung0033/jtung0033.github.io/blob/master/PyMongo%20Operation/PyMongo%20Operation%20Narrative.docx) for an in-depth narrative of this project showcasing databases.
-
-## Informal Code Review
-Take a look at this [repository](https://bitbucket.org/jtung0033/code-review/src/master/Artifacts%20Code%20Review.mp4) for a code review video detailing artifacts and enhancement plans.
