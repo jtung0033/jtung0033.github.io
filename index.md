@@ -57,4 +57,6 @@ A collection of six different python programs consolidated into a centralized py
   - Aggregation Query
 
 The consolidated project provides the aforementioned operations in managing a MongoDB collection created from this [stocks.json database](https://github.com/jtung0033/jtung0033.github.io/blob/master/PyMongo%20Operation/stocks.json). Direct to this [download link](https://github.com/jtung0033/jtung0033.github.io/blob/master/PyMongo%20Operation/PyMongo%20Operation%20Narrative.docx) for an in-depth narrative of this project showcasing databases.
-  
+
+## Informal Code Review
+Take a look at this [repository](https://bitbucket.org/jtung0033/code-review/src/master/Artifacts%20Code%20Review.mp4) for a code review video detailing artifacts and enhancement plans.
