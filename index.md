@@ -15,7 +15,7 @@ An OpenGL C++ project recreation of a Powerade Bottle in low polygon view. This 
 - glu32
 - SOIL
 
-To download and setup the aforementioned libraries head to this [OpenGL Development Pack Repository](https://bitbucket.org/jtung0033/development-pack/src/master/) and follow this download link to the [PDF instruction file](https://bitbucket.org/jtung0033/development-pack/src/master/cs330_development_installation_instructions.pdf).
+To download and setup the aforementioned libraries head to this [OpenGL Development Pack Repository](https://bitbucket.org/jtung0033/development-pack/src/master/) and follow this download link to the [PDF file](https://bitbucket.org/jtung0033/development-pack/src/master/cs330_development_installation_instructions.pdf) for instructions to set up the development pack.
 
 Direct to this [download link](https://github.com/jtung0033/jtung0033.github.io/blob/master/PoweradeBottle/Powerade%20Bottle%20Narrative.docx) for an in-depth narrative of this project showcasing software design and engineering. Additionally, direct to this [preview image](https://github.com/jtung0033/jtung0033.github.io/blob/master/PoweradeBottle/Powerade%20Bottle%20Preview.png) of an example of the low-polygon powerade bottle created within the Eclipse Development Environment.
 
